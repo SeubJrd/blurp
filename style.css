@@ -1,0 +1,24 @@
+/*
+Theme Name: Licence projet test
+Theme URI:
+Author: Seub
+Author URI: https://sebastienjourdain.com
+Description: Le thème développé par seub avec pascalito
+Version: 0.1
+Tags: Simple, facile, sans danger, base pour la suite
+*/
+header {
+   background-color: blue;
+}
+footer {
+   background-color: green;
+}
+.side{
+   background-color: yellow;
+}
+.post{
+   background-color: lightblue;
+}
+form {
+   background-color: white;
+}
